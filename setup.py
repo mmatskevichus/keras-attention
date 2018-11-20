@@ -1,6 +1,6 @@
 from setuptools import setup
 
 setup(
-    name='keras_attention',
+    name='keras-attention',
     packages=['models']
 )
